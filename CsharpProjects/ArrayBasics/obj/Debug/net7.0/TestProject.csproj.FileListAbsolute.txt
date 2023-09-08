@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/bin/Debug/net7.0/TestProject
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/bin/Debug/net7.0/TestProject.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/bin/Debug/net7.0/TestProject.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/bin/Debug/net7.0/TestProject.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/TestProject.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/refint/TestProject.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/TestProject.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ArrayBasics/obj/Debug/net7.0/ref/TestProject.dll
