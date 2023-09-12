@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.dll
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.pdb
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.dll
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.pdb
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/ref/Starter.dll
