@@ -41,18 +41,29 @@ foreach(var name in studentNames)
     }
 
     double studentSum = 0;
-    
-    decimal studentScore;
+    int counter = 0;
+    double studentScore = 0;
+    double examScore = 0;
+    double extraCreditScore = 0;
 
     for(int i = 0; i < studentScores.Length; i++) 
     {
         if (i >= currentAssignments)
-            studentSum += (double)studentScores[i] / 10;
+        {
+            extraCreditScore += studentScores[i] * 0.1;
+            counter += 1;
+        }
         else 
-            studentSum += studentScores[i];
+            examScore += studentScores[i];
+
     }
+    double extraCreditAverage = extraCreditScore * 10 / counter;
+
+    studentSum = examScore + extraCreditScore;
+
+   
     
-    studentScore = (decimal)studentSum / currentAssignments;
+    studentScore = studentSum / currentAssignments;
     
     if (studentScore >= 97)
         currentStudentLetterGrade = "A+";
@@ -93,7 +104,7 @@ foreach(var name in studentNames)
         currentStudentLetterGrade = "F";
          
 
-    Console.WriteLine($"{currentStudent}:\t\t" + studentScore + $"\t{currentStudentLetterGrade}");
+    Console.WriteLine($"{currentStudent}:\t\t{examScore / 5}\t{studentScore}\t{currentStudentLetterGrade}\t{extraCreditAverage} ({(int)extraCreditScore / counter} pts)");
 
 
 }
