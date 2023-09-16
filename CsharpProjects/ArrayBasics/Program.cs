@@ -1,34 +1,33 @@
-﻿string[] OrderIDs =
-{
-    "B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"
-};
+﻿using System;
 
-foreach (string Id in OrderIDs)
+Random gen = new Random();
+
+
+
+
+int a = 1;
+int b = 2;
+
+var things = new classA();
+
+int c = a > b ? things.Add(2, 1):;
+
+Console.WriteLine(c);
+
+public class classA 
 {
-    if (!Id.StartsWith("B"))
+    
+    public classA(int a , int b)
     {
-        continue;
+        
     }
-    Console.WriteLine(Id);
-}
+    public int Add()
+    {
+        return (a + b);
+    }
 
-
-// fraudulentOrderIDs[0] = "F000";
-
-// int sum = 0;
-// int[] inventory = { 200, 450, 700, 175, 250 };
-// int bin = 0;
-// foreach (int items in inventory)
-// {
-//     bin++;
-
-//     sum += items; 
-//     Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
-// }
-
-// // Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
-// // Console.WriteLine($"Second: {fraudulentOrderIDs[1]}");
-// // Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
-
-// Console.WriteLine($"There are {fraudulentOrderIDs.Length} fraudulent orders to process.");
-// Console.WriteLine($"We have {sum} items in inventory.");
+    public int Sub(int a, int b)
+    {
+        return (a - b);
+    }
+};
