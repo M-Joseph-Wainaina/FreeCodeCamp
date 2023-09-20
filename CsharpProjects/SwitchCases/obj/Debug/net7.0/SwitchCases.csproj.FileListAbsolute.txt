@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/bin/Debug/net7.0/SwitchCases
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/bin/Debug/net7.0/SwitchCases.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/bin/Debug/net7.0/SwitchCases.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/bin/Debug/net7.0/SwitchCases.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/bin/Debug/net7.0/SwitchCases.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/SwitchCases.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/SwitchCases.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/SwitchCases.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/SwitchCases.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/SwitchCases.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/SwitchCases.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/refint/SwitchCases.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/SwitchCases.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/SwitchCases.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/SwitchCases/obj/Debug/net7.0/ref/SwitchCases.dll
