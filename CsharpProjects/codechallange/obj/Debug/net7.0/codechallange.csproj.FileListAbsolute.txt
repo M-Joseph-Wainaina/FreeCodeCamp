@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/codechallange.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/codechallange.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/codechallange.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/codechallange.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/codechallange.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/bin/Debug/net7.0/codechallange
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/bin/Debug/net7.0/codechallange.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/bin/Debug/net7.0/codechallange.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/bin/Debug/net7.0/codechallange.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/bin/Debug/net7.0/codechallange.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/codechallange.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/refint/codechallange.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/codechallange.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/codechallange.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/codechallange/obj/Debug/net7.0/ref/codechallange.dll

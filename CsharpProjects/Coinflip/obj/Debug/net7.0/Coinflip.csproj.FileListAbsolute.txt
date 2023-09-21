@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/bin/Debug/net7.0/Coinflip
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/bin/Debug/net7.0/Coinflip.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/bin/Debug/net7.0/Coinflip.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/bin/Debug/net7.0/Coinflip.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/bin/Debug/net7.0/Coinflip.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/Coinflip.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/Coinflip.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/Coinflip.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/Coinflip.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/Coinflip.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/Coinflip.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/refint/Coinflip.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/Coinflip.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/Coinflip.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/Coinflip/obj/Debug/net7.0/ref/Coinflip.dll

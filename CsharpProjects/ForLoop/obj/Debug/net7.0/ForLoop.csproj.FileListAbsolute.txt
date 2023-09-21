@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/ForLoop.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/ForLoop.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/bin/Debug/net7.0/ForLoop
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/bin/Debug/net7.0/ForLoop.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/bin/Debug/net7.0/ForLoop.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/bin/Debug/net7.0/ForLoop.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/bin/Debug/net7.0/ForLoop.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/ForLoop.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/refint/ForLoop.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/ForLoop.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/ForLoop.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ForLoop/obj/Debug/net7.0/ref/ForLoop.dll

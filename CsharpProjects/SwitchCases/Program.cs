@@ -60,4 +60,5 @@ switch (product[2])
         break;
 }
 
+
 Console.WriteLine($"Product: size} {color} {type}");

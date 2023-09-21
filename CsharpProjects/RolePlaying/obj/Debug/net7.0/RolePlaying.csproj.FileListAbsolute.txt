@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/bin/Debug/net7.0/RolePlaying
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/bin/Debug/net7.0/RolePlaying.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/bin/Debug/net7.0/RolePlaying.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/bin/Debug/net7.0/RolePlaying.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/bin/Debug/net7.0/RolePlaying.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/RolePlaying.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/RolePlaying.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/RolePlaying.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/RolePlaying.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/RolePlaying.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/RolePlaying.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/refint/RolePlaying.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/RolePlaying.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/RolePlaying.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/RolePlaying/obj/Debug/net7.0/ref/RolePlaying.dll

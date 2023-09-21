@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/bin/Debug/net7.0/VariableScope
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/bin/Debug/net7.0/VariableScope.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/bin/Debug/net7.0/VariableScope.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/bin/Debug/net7.0/VariableScope.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/bin/Debug/net7.0/VariableScope.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/VariableScope.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/VariableScope.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/VariableScope.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/VariableScope.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/VariableScope.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/refint/VariableScope.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/VariableScope.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/VariableScope.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/VariableScope/obj/Debug/net7.0/ref/VariableScope.dll

@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/AccessLevels.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/AccessLevels.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/AccessLevels.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/AccessLevels.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/AccessLevels.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/bin/Debug/net7.0/AccessLevels
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/bin/Debug/net7.0/AccessLevels.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/bin/Debug/net7.0/AccessLevels.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/bin/Debug/net7.0/AccessLevels.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/bin/Debug/net7.0/AccessLevels.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/AccessLevels.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/refint/AccessLevels.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/AccessLevels.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/AccessLevels.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/AccessLevels/obj/Debug/net7.0/ref/AccessLevels.dll

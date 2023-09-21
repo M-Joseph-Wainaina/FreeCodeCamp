@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/CreateReadableCode.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/CreateReadableCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/CreateReadableCode.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/CreateReadableCode.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/CreateReadableCode.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/bin/Debug/net7.0/CreateReadableCode
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/bin/Debug/net7.0/CreateReadableCode.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/bin/Debug/net7.0/CreateReadableCode.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/bin/Debug/net7.0/CreateReadableCode.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/bin/Debug/net7.0/CreateReadableCode.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/CreateReadableCode.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/refint/CreateReadableCode.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/CreateReadableCode.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/CreateReadableCode.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CreateReadableCode/obj/Debug/net7.0/ref/CreateReadableCode.dll
