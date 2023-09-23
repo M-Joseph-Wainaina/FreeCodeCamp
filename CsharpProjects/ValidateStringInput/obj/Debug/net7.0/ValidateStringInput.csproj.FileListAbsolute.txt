@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/bin/Debug/net7.0/ValidateStringInput
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/bin/Debug/net7.0/ValidateStringInput.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/bin/Debug/net7.0/ValidateStringInput.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/bin/Debug/net7.0/ValidateStringInput.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/bin/Debug/net7.0/ValidateStringInput.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/ValidateStringInput.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/ValidateStringInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/ValidateStringInput.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/ValidateStringInput.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/ValidateStringInput.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/ValidateStringInput.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/refint/ValidateStringInput.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/ValidateStringInput.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/ValidateStringInput.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ValidateStringInput/obj/Debug/net7.0/ref/ValidateStringInput.dll

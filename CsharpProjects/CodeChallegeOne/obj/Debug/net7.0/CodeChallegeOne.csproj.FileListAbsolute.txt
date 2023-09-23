@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/bin/Debug/net7.0/CodeChallegeOne
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/bin/Debug/net7.0/CodeChallegeOne.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/bin/Debug/net7.0/CodeChallegeOne.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/bin/Debug/net7.0/CodeChallegeOne.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/bin/Debug/net7.0/CodeChallegeOne.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/CodeChallegeOne.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/CodeChallegeOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/CodeChallegeOne.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/CodeChallegeOne.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/CodeChallegeOne.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/CodeChallegeOne.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/refint/CodeChallegeOne.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/CodeChallegeOne.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/CodeChallegeOne.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/CodeChallegeOne/obj/Debug/net7.0/ref/CodeChallegeOne.dll
