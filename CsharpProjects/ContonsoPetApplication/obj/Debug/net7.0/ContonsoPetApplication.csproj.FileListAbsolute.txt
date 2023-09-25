@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/bin/Debug/net7.0/ContonsoPetApplication
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/bin/Debug/net7.0/ContonsoPetApplication.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/bin/Debug/net7.0/ContonsoPetApplication.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/bin/Debug/net7.0/ContonsoPetApplication.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/bin/Debug/net7.0/ContonsoPetApplication.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/ContonsoPetApplication.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/ContonsoPetApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/ContonsoPetApplication.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/ContonsoPetApplication.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/ContonsoPetApplication.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/ContonsoPetApplication.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/refint/ContonsoPetApplication.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/ContonsoPetApplication.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/ContonsoPetApplication.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/ContonsoPetApplication/obj/Debug/net7.0/ref/ContonsoPetApplication.dll
