@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/bin/Debug/net7.0/sringArray
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/bin/Debug/net7.0/sringArray.deps.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/bin/Debug/net7.0/sringArray.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/bin/Debug/net7.0/sringArray.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/bin/Debug/net7.0/sringArray.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/sringArray.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/sringArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/sringArray.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/sringArray.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/sringArray.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/sringArray.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/refint/sringArray.dll
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/sringArray.pdb
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/sringArray.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/CsharpProjects/stringArray/obj/Debug/net7.0/ref/sringArray.dll
