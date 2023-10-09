@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/dataTypes.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/dataTypes.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/dataTypes.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/dataTypes.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/bin/Debug/net7.0/dataTypes
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/bin/Debug/net7.0/dataTypes.deps.json
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/bin/Debug/net7.0/dataTypes.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/bin/Debug/net7.0/dataTypes.dll
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/bin/Debug/net7.0/dataTypes.pdb
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/dataTypes.dll
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/refint/dataTypes.dll
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/dataTypes.pdb
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/dataTypes.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/dataTypes/obj/Debug/net7.0/ref/dataTypes.dll
