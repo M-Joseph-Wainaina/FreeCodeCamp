@@ -273,19 +273,108 @@ do{
         //ensure pet age and physical descrption contain valid info
             for(int i = 0; i < maxPets; i++)
             {
+                string id = ourAnimals[i, 0];
                 if(ourAnimals[i, 0] != "ID #: ")
                 {
                     if(ourAnimals[i, 2] == "Age: ?")
                     {
-                        string id = ourAnimals[i, 0];
+                       
                         string age = ourAnimals[i, 2];
-                        Console.WriteLine($"Animal {id} ")
+                        string userInput;
+                    
+                        Console.WriteLine($"Animal {id} is missing age, update(y/n)");
+                       
+                        userInput = Console.ReadLine();
+                        if (userInput == "y")
+                        {
+                            bool isValid;
+                            int inputAge = 0;
+                            if(userInput == "y")
+                            do 
+                            {
+                                Console.WriteLine("Provide the animal age");
+                                isValid = int.TryParse(Console.ReadLine(), out inputAge);
+
+                            } while(!isValid);
+                            ourAnimals[i, 2] += inputAge;
+                        }
+                                    
+
+                    }
+                    if(ourAnimals[i, 4] == "Physical description: ")
+                    {
+                        string description = ourAnimals[i, 4];
+                        string userInput = "";
+                        
+                       
+                        Console.WriteLine($"Animal {id} is missing description, update(y/n)");
+                        userInput = Console.ReadLine();
+                        if (userInput == "y"){
+                            string? inputDescription = "";
+                            if(userInput == "y")
+                            do 
+                            {
+                                Console.WriteLine("Provide the animal description");
+                                inputDescription = Console.ReadLine();
+
+                            } while(inputDescription.Length > 2); 
+                            ourAnimals[i, 4] += inputDescription;
+                        }
+                        
+             
                     }
                 }
             }
             break;
 
         case "4":
+            //ensure pet nickname and personalities contain valid info
+            for(int i = 0; i < maxPets; i++)
+            {
+                string id = ourAnimals[i, 0];
+                if(ourAnimals[i, 0] != "ID #: ")
+                {
+                    if(ourAnimals[i, 3] == "Nickname: ?")
+                    {
+                       
+                        string age = ourAnimals[i, 2];
+                        string userInput;
+                    
+                        Console.WriteLine($"Animal {id} is missing Nickname, update(y/n)");
+                       
+                        userInput = Console.ReadLine();
+                        if (userInput == "y")
+                        {
+                            
+                        }
+
+                                 
+
+                    }
+                    if(ourAnimals[i, 4] == "Physical description: ")
+                    {
+                        string description = ourAnimals[i, 4];
+                        string userInput = "";
+                        
+                       
+                        Console.WriteLine($"Animal {id} is missing description, update(y/n)");
+                        userInput = Console.ReadLine();
+                        if (userInput == "y"){
+                            string? inputDescription = "";
+                            if(userInput == "y")
+                            do 
+                            {
+                                Console.WriteLine("Provide the animal description");
+                                inputDescription = Console.ReadLine();
+
+                            } while(inputDescription.Length > 2); 
+                            ourAnimals[i, 4] += inputDescription;
+                        }
+                        
+             
+                    }
+                }
+            }
             break;
 
         case "5":

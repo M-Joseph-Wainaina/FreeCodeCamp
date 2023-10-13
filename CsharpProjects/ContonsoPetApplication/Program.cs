@@ -1,5 +1,8 @@
 ﻿List<string[]> ourAnimals = new List<string[]>();
-string[] dog = new string[6];
+string[] pet = {"12345", "dog", "1", "Bob", "Calm", "Amazing"};
+ourAnimals.Add(pet);
+
+
 
 
 // int seed = 0;
@@ -15,7 +18,7 @@ string[] dog = new string[6];
 
 // string[] menu = {"allAnimals", "addNew"}
 
-Console.WriteLine("Welcome to Contoso Pet Application\n. How can we assist you?");
+Console.WriteLine("Welcome to Contoso Pet Application.\nHow can we assist you?");
 
 while(true)
 {
@@ -27,6 +30,12 @@ while(true)
     switch(userInput)
     {
         case "1":
+            foreach (var animal in ourAnimals)
+            {
+                // int counter = 0;
+                Console.WriteLine($"\n\nPet Id\tSpecies\tAge\tNickname\tPersonality\tDescription");
+                Console.WriteLine($"\n {animal[0]}\t{animal[1]}\t{animal[2]}\t{animal[3]}\t{animal[4]}\t{animal[5]}");
+            }
             break;
         case "2":
 

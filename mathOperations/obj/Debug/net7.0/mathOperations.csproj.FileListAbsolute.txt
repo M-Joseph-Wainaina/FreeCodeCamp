@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/bin/Debug/net7.0/mathOperations
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/bin/Debug/net7.0/mathOperations.deps.json
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/bin/Debug/net7.0/mathOperations.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/bin/Debug/net7.0/mathOperations.dll
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/bin/Debug/net7.0/mathOperations.pdb
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/mathOperations.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/mathOperations.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/mathOperations.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/mathOperations.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/mathOperations.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/mathOperations.dll
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/refint/mathOperations.dll
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/mathOperations.pdb
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/mathOperations.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/mathOperations/obj/Debug/net7.0/ref/mathOperations.dll

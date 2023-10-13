@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/interviewChallenge.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/interviewChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/interviewChallenge.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/interviewChallenge.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/interviewChallenge.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/bin/Debug/net7.0/interviewChallenge
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/bin/Debug/net7.0/interviewChallenge.deps.json
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/bin/Debug/net7.0/interviewChallenge.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/bin/Debug/net7.0/interviewChallenge.dll
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/bin/Debug/net7.0/interviewChallenge.pdb
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/interviewChallenge.dll
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/refint/interviewChallenge.dll
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/interviewChallenge.pdb
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/interviewChallenge.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/interviewChallenge/obj/Debug/net7.0/ref/interviewChallenge.dll

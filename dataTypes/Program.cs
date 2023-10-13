@@ -1,10 +1,5 @@
-﻿// int first = 2;
-// string second = "4";
-// string result = first + second;
-// Console.WriteLine(result);
+﻿List<string> fruits = new List<string>{"tomatoes", "bananas", "apple"};
 
-// second.length();
+string ourFruits = Convert.ToString(fruits);
 
-int name = 123;
-
-Console.WriteLine(Convert.ToByte(name));
+Console.WriteLine(ourFruits);

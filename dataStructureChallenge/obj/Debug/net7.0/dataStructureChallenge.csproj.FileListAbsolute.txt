@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/bin/Debug/net7.0/dataStructureChallenge
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/bin/Debug/net7.0/dataStructureChallenge.deps.json
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/bin/Debug/net7.0/dataStructureChallenge.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/bin/Debug/net7.0/dataStructureChallenge.dll
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/bin/Debug/net7.0/dataStructureChallenge.pdb
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/dataStructureChallenge.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/dataStructureChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/dataStructureChallenge.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/dataStructureChallenge.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/dataStructureChallenge.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/dataStructureChallenge.dll
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/refint/dataStructureChallenge.dll
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/dataStructureChallenge.pdb
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/dataStructureChallenge.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/dataStructureChallenge/obj/Debug/net7.0/ref/dataStructureChallenge.dll
