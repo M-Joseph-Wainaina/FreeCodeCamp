@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/bin/Debug/net7.0/arrayMethods
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/bin/Debug/net7.0/arrayMethods.deps.json
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/bin/Debug/net7.0/arrayMethods.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/bin/Debug/net7.0/arrayMethods.dll
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/bin/Debug/net7.0/arrayMethods.pdb
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/arrayMethods.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/arrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/arrayMethods.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/arrayMethods.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/arrayMethods.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/arrayMethods.dll
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/refint/arrayMethods.dll
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/arrayMethods.pdb
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/arrayMethods.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/arrayMethods/obj/Debug/net7.0/ref/arrayMethods.dll
