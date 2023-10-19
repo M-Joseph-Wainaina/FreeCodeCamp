@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/invoices/bin/Debug/net7.0/invoices
+/home/wainaina/Documents/FreeCodeCamp/invoices/bin/Debug/net7.0/invoices.deps.json
+/home/wainaina/Documents/FreeCodeCamp/invoices/bin/Debug/net7.0/invoices.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/invoices/bin/Debug/net7.0/invoices.dll
+/home/wainaina/Documents/FreeCodeCamp/invoices/bin/Debug/net7.0/invoices.pdb
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/invoices.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/invoices.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/invoices.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/invoices.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/invoices.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/invoices.dll
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/refint/invoices.dll
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/invoices.pdb
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/invoices.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/invoices/obj/Debug/net7.0/ref/invoices.dll
