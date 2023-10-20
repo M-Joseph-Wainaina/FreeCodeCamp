@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/bin/Debug/net7.0/exprimentingObjectsBehavior
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/bin/Debug/net7.0/exprimentingObjectsBehavior.deps.json
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/bin/Debug/net7.0/exprimentingObjectsBehavior.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/bin/Debug/net7.0/exprimentingObjectsBehavior.dll
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/bin/Debug/net7.0/exprimentingObjectsBehavior.pdb
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/exprimentingObjectsBehavior.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/exprimentingObjectsBehavior.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/exprimentingObjectsBehavior.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/exprimentingObjectsBehavior.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/exprimentingObjectsBehavior.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/exprimentingObjectsBehavior.dll
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/refint/exprimentingObjectsBehavior.dll
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/exprimentingObjectsBehavior.pdb
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/exprimentingObjectsBehavior.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/exprimentingObjectsBehavior/obj/Debug/net7.0/ref/exprimentingObjectsBehavior.dll

@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/bin/Debug/net7.0/compositeFormating
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/bin/Debug/net7.0/compositeFormating.deps.json
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/bin/Debug/net7.0/compositeFormating.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/bin/Debug/net7.0/compositeFormating.dll
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/bin/Debug/net7.0/compositeFormating.pdb
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/compositeFormating.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/compositeFormating.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/compositeFormating.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/compositeFormating.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/compositeFormating.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/compositeFormating.dll
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/refint/compositeFormating.dll
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/compositeFormating.pdb
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/compositeFormating.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/compositeFormating/obj/Debug/net7.0/ref/compositeFormating.dll

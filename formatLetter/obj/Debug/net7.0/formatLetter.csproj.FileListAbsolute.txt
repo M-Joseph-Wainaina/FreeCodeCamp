@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/bin/Debug/net7.0/formatLetter
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/bin/Debug/net7.0/formatLetter.deps.json
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/bin/Debug/net7.0/formatLetter.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/bin/Debug/net7.0/formatLetter.dll
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/bin/Debug/net7.0/formatLetter.pdb
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/formatLetter.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/formatLetter.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/formatLetter.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/formatLetter.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/formatLetter.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/formatLetter.dll
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/refint/formatLetter.dll
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/formatLetter.pdb
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/formatLetter.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/formatLetter/obj/Debug/net7.0/ref/formatLetter.dll

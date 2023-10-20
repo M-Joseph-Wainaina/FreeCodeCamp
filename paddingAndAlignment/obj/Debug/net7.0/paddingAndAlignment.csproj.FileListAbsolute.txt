@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/bin/Debug/net7.0/paddingAndAlignment
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/bin/Debug/net7.0/paddingAndAlignment.deps.json
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/bin/Debug/net7.0/paddingAndAlignment.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/bin/Debug/net7.0/paddingAndAlignment.dll
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/bin/Debug/net7.0/paddingAndAlignment.pdb
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/paddingAndAlignment.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/paddingAndAlignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/paddingAndAlignment.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/paddingAndAlignment.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/paddingAndAlignment.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/paddingAndAlignment.dll
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/refint/paddingAndAlignment.dll
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/paddingAndAlignment.pdb
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/paddingAndAlignment.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/paddingAndAlignment/obj/Debug/net7.0/ref/paddingAndAlignment.dll

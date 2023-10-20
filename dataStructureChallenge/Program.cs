@@ -5,7 +5,7 @@ decimal sum = 0.0m;
 decimal num = 0.0m;
 bool isNum = false;
 
-Array.ForEach(values, value => {
+Array.ForEach(values, (var value)  => {
     isNum = decimal.TryParse(value, out num);
     _ = isNum ? (sum += num).ToString() : message += value;
 });
