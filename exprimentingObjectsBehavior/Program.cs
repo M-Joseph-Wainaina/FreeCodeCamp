@@ -21,4 +21,4 @@ int num1 = 10;
 int num2 = num1;
 num1 = 20;
 
-Console.WriteLine(num2);
+Console.WriteLine(num);
