@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/HtmlChallenge.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/HtmlChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/HtmlChallenge.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/HtmlChallenge.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/HtmlChallenge.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/bin/Debug/net7.0/HtmlChallenge
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/bin/Debug/net7.0/HtmlChallenge.deps.json
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/bin/Debug/net7.0/HtmlChallenge.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/bin/Debug/net7.0/HtmlChallenge.dll
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/bin/Debug/net7.0/HtmlChallenge.pdb
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/HtmlChallenge.dll
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/refint/HtmlChallenge.dll
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/HtmlChallenge.pdb
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/HtmlChallenge.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/HtmlChallenge/obj/Debug/net7.0/ref/HtmlChallenge.dll

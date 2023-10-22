@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/bin/Debug/net7.0/modificationOfStrings
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/bin/Debug/net7.0/modificationOfStrings.deps.json
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/bin/Debug/net7.0/modificationOfStrings.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/bin/Debug/net7.0/modificationOfStrings.dll
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/bin/Debug/net7.0/modificationOfStrings.pdb
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/modificationOfStrings.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/modificationOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/modificationOfStrings.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/modificationOfStrings.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/modificationOfStrings.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/modificationOfStrings.dll
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/refint/modificationOfStrings.dll
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/modificationOfStrings.pdb
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/modificationOfStrings.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/modificationOfStrings/obj/Debug/net7.0/ref/modificationOfStrings.dll

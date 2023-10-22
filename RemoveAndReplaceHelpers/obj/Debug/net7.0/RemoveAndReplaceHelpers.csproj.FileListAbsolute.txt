@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/bin/Debug/net7.0/RemoveAndReplaceHelpers
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/bin/Debug/net7.0/RemoveAndReplaceHelpers.deps.json
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/bin/Debug/net7.0/RemoveAndReplaceHelpers.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/bin/Debug/net7.0/RemoveAndReplaceHelpers.dll
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/bin/Debug/net7.0/RemoveAndReplaceHelpers.pdb
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/RemoveAndReplaceHelpers.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/RemoveAndReplaceHelpers.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/RemoveAndReplaceHelpers.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/RemoveAndReplaceHelpers.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/RemoveAndReplaceHelpers.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/RemoveAndReplaceHelpers.dll
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/refint/RemoveAndReplaceHelpers.dll
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/RemoveAndReplaceHelpers.pdb
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/RemoveAndReplaceHelpers.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/RemoveAndReplaceHelpers/obj/Debug/net7.0/ref/RemoveAndReplaceHelpers.dll
