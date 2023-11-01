@@ -152,7 +152,7 @@ do
             Array.Sort(dogCharacteristicArray);
             
             // #4 update to "rotating" animation with countdown
-            string[] searchingIcons = {".  ", ".. ", "..."};
+            string[] searchingIcons = {"/ ", " \\ ", "/"};
 
             // loop ourAnimals array to search for matching animals
             for (int i = 0; i < maxPets; i++)
@@ -167,9 +167,10 @@ do
                     for (int j = 5; j > -1 ; j--)
                     {
                     // #5 update "searching" message to show countdown 
+                        int x = searchingIcons.Length;
                         foreach (string icon in searchingIcons)
                         {
-                            Console.Write($"\rsearching our dog {ourAnimals[i, 3]} for {dogCharacteristic} {icon}");
+                            Console.Write($"\rsearching our dog {ourAnimals[i, 3]} for {dogCharacteristic} {icon} {x--}");
                             Thread.Sleep(250);
                         }
                         
