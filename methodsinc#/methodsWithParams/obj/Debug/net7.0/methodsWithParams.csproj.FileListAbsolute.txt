@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/bin/Debug/net7.0/methodsWithParams
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/bin/Debug/net7.0/methodsWithParams.deps.json
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/bin/Debug/net7.0/methodsWithParams.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/bin/Debug/net7.0/methodsWithParams.dll
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/bin/Debug/net7.0/methodsWithParams.pdb
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/methodsWithParams.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/methodsWithParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/methodsWithParams.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/methodsWithParams.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/methodsWithParams.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/methodsWithParams.dll
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/refint/methodsWithParams.dll
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/methodsWithParams.pdb
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/methodsWithParams.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsWithParams/obj/Debug/net7.0/ref/methodsWithParams.dll

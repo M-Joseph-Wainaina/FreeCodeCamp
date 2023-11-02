@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/bin/Debug/net7.0/displayEmails
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/bin/Debug/net7.0/displayEmails.deps.json
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/bin/Debug/net7.0/displayEmails.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/bin/Debug/net7.0/displayEmails.dll
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/bin/Debug/net7.0/displayEmails.pdb
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/displayEmails.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/displayEmails.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/displayEmails.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/displayEmails.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/displayEmails.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/displayEmails.dll
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/refint/displayEmails.dll
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/displayEmails.pdb
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/displayEmails.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsinc#/displayEmails/obj/Debug/net7.0/ref/displayEmails.dll

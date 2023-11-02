@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/bin/Debug/net7.0/MethodsWithOptionalParams
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/bin/Debug/net7.0/MethodsWithOptionalParams.deps.json
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/bin/Debug/net7.0/MethodsWithOptionalParams.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/bin/Debug/net7.0/MethodsWithOptionalParams.dll
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/bin/Debug/net7.0/MethodsWithOptionalParams.pdb
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/MethodsWithOptionalParams.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/MethodsWithOptionalParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/MethodsWithOptionalParams.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/MethodsWithOptionalParams.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/MethodsWithOptionalParams.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/MethodsWithOptionalParams.dll
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/refint/MethodsWithOptionalParams.dll
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/MethodsWithOptionalParams.pdb
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/MethodsWithOptionalParams.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/MethodsWithOptionalParams/obj/Debug/net7.0/ref/MethodsWithOptionalParams.dll
