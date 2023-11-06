@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/ReturnBoolFromMethods.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/ReturnBoolFromMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/ReturnBoolFromMethods.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/ReturnBoolFromMethods.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/ReturnBoolFromMethods.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/bin/Debug/net7.0/ReturnBoolFromMethods
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/bin/Debug/net7.0/ReturnBoolFromMethods.deps.json
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/bin/Debug/net7.0/ReturnBoolFromMethods.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/bin/Debug/net7.0/ReturnBoolFromMethods.dll
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/bin/Debug/net7.0/ReturnBoolFromMethods.pdb
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/ReturnBoolFromMethods.dll
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/refint/ReturnBoolFromMethods.dll
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/ReturnBoolFromMethods.pdb
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/ReturnBoolFromMethods.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/ReturnBoolFromMethods/obj/Debug/net7.0/ref/ReturnBoolFromMethods.dll
