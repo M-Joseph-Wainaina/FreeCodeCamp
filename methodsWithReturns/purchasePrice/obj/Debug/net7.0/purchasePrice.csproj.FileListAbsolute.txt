@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/bin/Debug/net7.0/purchasePrice
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/bin/Debug/net7.0/purchasePrice.deps.json
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/bin/Debug/net7.0/purchasePrice.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/bin/Debug/net7.0/purchasePrice.dll
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/bin/Debug/net7.0/purchasePrice.pdb
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/purchasePrice.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/purchasePrice.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/purchasePrice.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/purchasePrice.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/purchasePrice.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/purchasePrice.dll
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/refint/purchasePrice.dll
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/purchasePrice.pdb
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/purchasePrice.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/methodsWithReturns/purchasePrice/obj/Debug/net7.0/ref/purchasePrice.dll
