@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/bin/Debug/net7.0/ContosoPettingZoo
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/bin/Debug/net7.0/ContosoPettingZoo.deps.json
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/bin/Debug/net7.0/ContosoPettingZoo.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/bin/Debug/net7.0/ContosoPettingZoo.dll
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/bin/Debug/net7.0/ContosoPettingZoo.pdb
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/ContosoPettingZoo.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/ContosoPettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/ContosoPettingZoo.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/ContosoPettingZoo.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/ContosoPettingZoo.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/ContosoPettingZoo.dll
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/refint/ContosoPettingZoo.dll
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/ContosoPettingZoo.pdb
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/ContosoPettingZoo.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/ContosoPettingZoo/obj/Debug/net7.0/ref/ContosoPettingZoo.dll
