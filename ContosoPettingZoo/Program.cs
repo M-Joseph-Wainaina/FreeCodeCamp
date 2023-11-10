@@ -24,12 +24,40 @@ void RandomizeAnimals()
         temp = pettingZoo[a];
         pettingZoo[a] = pettingZoo[b];
         pettingZoo[b] = temp;
-
     }
-    foreach(var animal in pettingZoo)
+    
+}
+
+var animalGroups = AssignGroup();
+
+string[,] AssignGroup(int group = 6)
+{
+    string[,] groups = new string[group, pettingZoo.Length/group];
+
+    int count = 0;
+    for(int i = 0; i < group; i++)
     {
-        Console.Write(animal + " ,");
+        for(int j = 0; j < pettingZoo.Length/group; j++)
+        {
+            groups[i, j] = pettingZoo[count];
+            count++;
+        }
+    }
+
+    return groups;
+}
+
+printGroup(animalGroups);
+
+void printGroup(string[,] animalGroups)
+{
+    for(int i = 0; i < animalGroups.GetLength(0); i++)
+    {
+        for(int j = 0; j < animalGroups.GetLength(1); j++)
+        {
+            Console.Write(animalGroups[i, j] + " ,");
+        }
+        Console.WriteLine();
     }
 }
 
-// AssignGroup();
