@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net7.0/Final
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net7.0/Final.deps.json
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net7.0/Final.dll
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net7.0/Final.pdb
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/Final.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/Final.dll
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/refint/Final.dll
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/Final.pdb
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/snakeXhenzia/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net7.0/ref/Final.dll
