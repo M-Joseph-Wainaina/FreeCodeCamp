@@ -15,7 +15,7 @@ int foodX = 0;
 int foodY = 0;
 
 // Available player and food strings
-string[] states = {"(O_O)", "($-$)", "(X_X)"};
+string[] states = {"('-')", "(^-^)", "(X_X)"};
 string[] foods = {"@@@@@", "$$$$$", "#####"};
 
 // Current player string displayed in the Console
@@ -27,11 +27,20 @@ int food = 0;
 InitializeGame();
 while (!shouldExit) 
 {
-    Move();
+    if (CheckPlayer(2)) FreezePlayer();
+    else if(CheckPlayer(1)) Move(5);
+    else Move();
+  
     if(playerX == foodX && playerY == foodY)
     {
         ChangePlayer();
         ShowFood();
+    }
+
+    if(TerminalResized())
+    {
+        Console.WriteLine("Console was resized. Program exiting.");
+        shouldExit = true;
     }
 }
 
@@ -39,6 +48,13 @@ while (!shouldExit)
 bool TerminalResized() 
 {
     return height != Console.WindowHeight - 1 || width != Console.WindowWidth - 5;
+}
+
+// check player state
+
+bool CheckPlayer(int playerState)
+{
+    return player.Equals(states[playerState]);
 }
 
 // Displays random food at a random location
@@ -67,12 +83,12 @@ void ChangePlayer()
 // Temporarily stops the player from moving
 void FreezePlayer() 
 {
-    System.Threading.Thread.Sleep(1000);
+    System.Threading.Thread.Sleep(3000);
     player = states[0];
 }
 
 // Reads directional input from the Console and moves the player
-void Move() 
+void Move(int speed = 1) 
 {
     int lastX = playerX;
     int lastY = playerY;
@@ -86,13 +102,17 @@ void Move()
             playerY++; 
             break;
 		case ConsoleKey.LeftArrow:  
-            playerX--; 
+            playerX -= speed; 
             break;
 		case ConsoleKey.RightArrow: 
-            playerX++; 
+            playerX += speed; 
             break;
 		case ConsoleKey.Escape:     
             shouldExit = true; 
+            break;
+        default:
+            Console.Write("Exiting the game");
+            shouldExit = true;
             break;
     }
 

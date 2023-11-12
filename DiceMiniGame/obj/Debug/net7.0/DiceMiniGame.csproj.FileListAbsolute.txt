@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/bin/Debug/net7.0/DiceMiniGame
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/bin/Debug/net7.0/DiceMiniGame.deps.json
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/bin/Debug/net7.0/DiceMiniGame.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/bin/Debug/net7.0/DiceMiniGame.dll
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/bin/Debug/net7.0/DiceMiniGame.pdb
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/DiceMiniGame.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/DiceMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/DiceMiniGame.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/DiceMiniGame.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/DiceMiniGame.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/DiceMiniGame.dll
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/refint/DiceMiniGame.dll
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/DiceMiniGame.pdb
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/DiceMiniGame.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/DiceMiniGame/obj/Debug/net7.0/ref/DiceMiniGame.dll
