@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/bin/Debug/net7.0/Debbuging
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/bin/Debug/net7.0/Debbuging.deps.json
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/bin/Debug/net7.0/Debbuging.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/bin/Debug/net7.0/Debbuging.dll
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/bin/Debug/net7.0/Debbuging.pdb
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/Debbuging.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/Debbuging.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/Debbuging.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/Debbuging.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/Debbuging.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/Debbuging.dll
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/refint/Debbuging.dll
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/Debbuging.pdb
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/Debbuging.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/Debbuging/obj/Debug/net7.0/ref/Debbuging.dll
