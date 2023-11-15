@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/bin/Debug/net7.0/LogPointsAndHitCounts
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/bin/Debug/net7.0/LogPointsAndHitCounts.deps.json
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/bin/Debug/net7.0/LogPointsAndHitCounts.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/bin/Debug/net7.0/LogPointsAndHitCounts.dll
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/bin/Debug/net7.0/LogPointsAndHitCounts.pdb
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/LogPointsAndHitCounts.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/LogPointsAndHitCounts.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/LogPointsAndHitCounts.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/LogPointsAndHitCounts.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/LogPointsAndHitCounts.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/LogPointsAndHitCounts.dll
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/refint/LogPointsAndHitCounts.dll
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/LogPointsAndHitCounts.pdb
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/LogPointsAndHitCounts.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/LogPointsAndHitCounts/obj/Debug/net7.0/ref/LogPointsAndHitCounts.dll
