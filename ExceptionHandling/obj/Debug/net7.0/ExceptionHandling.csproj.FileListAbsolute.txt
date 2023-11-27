@@ -1,0 +1,15 @@
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.csproj.AssemblyReference.cache
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.AssemblyInfoInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.AssemblyInfo.cs
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.csproj.CoreCompileInputs.cache
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.deps.json
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.runtimeconfig.json
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.dll
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.pdb
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.dll
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/refint/ExceptionHandling.dll
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.pdb
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.genruntimeconfig.cache
+/home/wainaina/Documents/FreeCodeCamp/ExceptionHandling/obj/Debug/net7.0/ref/ExceptionHandling.dll
